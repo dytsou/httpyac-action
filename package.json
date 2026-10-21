@@ -11,6 +11,6 @@
     "yaml": "^2.8.3"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.38.1"
+    "@vercel/ncc": "^0.45.0"
   }
 }
